@@ -85,7 +85,7 @@ voice-order-kiosk/
 ## Setup
 
 ```bash
-git clone https://github.com/margelo-ai/voice-order-kiosk.git
+git clone https://github.com/wildan-m/voice-order-kiosk.git
 cd voice-order-kiosk
 npm install
 cp .env.example .env
